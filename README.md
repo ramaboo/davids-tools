@@ -4,8 +4,8 @@ A well organized list of every tool I own.
 # Table of Contents
 
 * [Saws](#saws)
-* Drills
-* Welding
+* [Drills](#drills)
+* [Welding](#welding)
 * Hand Tools
 
 
@@ -28,6 +28,16 @@ Also Included:
 
 ## Drills
 
+### Hammer Drill/Driver - Milwaukee 1/2" [2704-20]
+
+A great general purpase battery powered drill. It's suprisingly strong. Be sure you have it in the right mode. If you tighten sockets on the drill mode it will twist your wrist really hard.
+
+Takes M18 FUEL batteries. It's easier to hold with the smaller batteries.
+
+[Website](https://www.milwaukeetool.com/power-tools/cordless/2704-20)
+
+ABCo's also has several dill presses.
+
 ## Welding
 
 ### Mig Welder - Lincoln Electric 140C
@@ -37,16 +47,26 @@ This is a great little welder. It runs on 110v AC and has a small gas tank so it
 
 [Website](http://www.lincolnelectric.com/en-us/Equipment/Pages/product.aspx?product=K2471-2(LincolnElectric)) | [Manual](http://www.lincolnelectric.com/assets/servicenavigator-public/lincoln3/imt10099.pdf)
 
-### Angle Grinder - Makita 4-1/2"
-
-Comes in a red bag with the wrench you need to change blades and the optional extra handle. You're also going to want a **dusk mask**, **ear protection**, and a **face shield**. Use this tool with care and think about which way the blade is spinning. This tool likes to kick so hold it firmly and away from your body.
-
 ### Chop Saw - Ridged 14"
 
 Great for cutting mild steel. It's noisy and smelly so used it outside.
 
+#### Angle Grinder - Makita 4-1/2"
+
+Comes in a red bag with the wrench you need to change blades and the optional extra handle. You're also going to want a **dusk mask**, **ear protection**, and a **face shield**. Use this tool with care and think about which way the blade is spinning. This tool likes to kick so hold it firmly and away from your body.
+
+
 ## Hand Tools
 
+
+### Wrenches
+
+* Pipe wrentch - several sizes
+* Needle nose pilers - several sizes
+
+#### Complete Socket Set
+
+I have had this socket set for over 10 years and never lost a single piece. If you lose a piece plan to stop at the hardware store before returning it!
 
 
 Many of these tools were purchased to support [8-bit Bunny](https://www.facebook.com/groups/8bitbunnybar/).
