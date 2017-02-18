@@ -5,7 +5,9 @@ A well organized list of every tool I own.
 
 * [Saws](#saws)
 * [Drills](#drills)
+* [Routers](#routers)
 * [Welding](#welding)
+* [Other](#other)
 * [Hand Tools](#hand-tools)
 
 
@@ -15,36 +17,61 @@ A well organized list of every tool I own.
 
 Perfect saw for chopping up 2x4's and other lumber. Maximum angle is 45°. I bought this saw for $5. Probably the best $5 I have ever spent on a tool. It even cuts aluminum (use the old blade for that!). 
 
-### Track Saw - Grizzly
+### Track Saw - Grizzly [T10687]((http://www.grizzly.com/products/T25552?utm_campaign=zPage&utm_source=grizzly.com))
 
 An amazing tool for cutting plywood down into manageable or finished pieces. It makes very accurate straight cuts though 3/4" plywood. Bunny Bar v1, and v2 were both built with this saw. It takes 160mm x 20mm blades.
-
-[Website](http://www.grizzly.com/products/T25552?utm_campaign=zPage&utm_source=grizzly.com)
 
 * 2 x 54" Tracks
 * 2 x Track clamps
 
 
+
 ## Drills
 
-### Hammer Drill/Driver - Milwaukee 1/2" [2704-20](https://www.milwaukeetool.com/power-tools/cordless/2704-20)
+#### Hammer Drill/Driver - Milwaukee 1/2" [[2704-20](https://www.milwaukeetool.com/power-tools/cordless/2704-20)]
 
 A great general purpase battery powered drill. It's suprisingly strong. Be sure you have it in the right mode. If you tighten sockets on the drill mode it will twist your wrist really hard.
 
-Takes M18 FUEL batteries. It's easier to hold with the smaller batteries.
+* M18 batteris
+* Wood bit set
+* Metal bit set
+* Wood hole cutters - all sizes up to 2 1/8"
+* Metal hole cutters - most sizes up to 2 1/8"
+* Micro drill bit set
 
 ABCo's also has several dill presses.
 
-### High Torque Impact Driver - Milwaukee 1/2" [2763-20](https://www.milwaukeetool.com/power-tools/cordless/2763-20)
+#### High Torque Impact Driver - Milwaukee 1/2" [[2763-20](https://www.milwaukeetool.com/power-tools/cordless/2763-20)]
 
 This baby has more torque than most sports cars. It will drive a 24" stake into the playa without a sweat. Use the large batteries, wear ear plugs, and hang on.
 
+* M18 batteris
 * Full socket set
 * Common size addapters - 3/8", 1/4", 1x4" hex
 
+#### Impact Driver - Milwaukee 1/4" Hex Hydraulic [2760-20][(https://www.milwaukeetool.com/power-tools/cordless/2760-20)]
+
+A great tool for driving screws and smaller sockets.
+
+* Socket set
+* Various bits - Torx, square, Philips
+* Adapters and extensions
+
+## Routing
+
+#### Plunge Router - Dewalt 1.25HP 1/4" [DWP611PK](http://www.dewalt.com/products/power-tools/routers-planers-and-joiners/routers/114-hp-max-torque-variable-speed-compact-router-combo-kit-with-leds/dwp611pk)
+
+* Full set of bits
+* Circle cutter
+* Edge guide
+
+#### Routing Table - Royobi
+
+* Full set of bits
+
 ## Welding
 
-### Mig Welder - [Lincoln Electric 140C](http://www.lincolnelectric.com/en-us/Equipment/Pages/product.aspx?product=K2471-2(LincolnElectric)
+### Mig Welder - [[Lincoln Electric 140C](http://www.lincolnelectric.com/en-us/Equipment/Pages/product.aspx?product=K2471-2(LincolnElectric))]
 
 ![K2471-2](http://assets.lincolnelectric.com/assets/global/Products/K2471-2/300x300.jpg)
 
@@ -64,6 +91,12 @@ Great for cutting mild steel. It's noisy and smelly so used it outside.
 Comes in a red bag with the wrench you need to change blades and the optional extra handle. You're also going to want a **dusk mask**, **ear protection**, and a **face shield**. Use this tool with care and think about which way the blade is spinning. This tool likes to kick so hold it firmly and away from your body.
 
 # Other
+
+#### Random Orbitial Sander - Milwaukee
+
+### Dremel - [[200](https://www.dremel.com/en_US/products/-/show-product/tools/200-series-rotary-tool)]
+
+* Random bits
 
 ### Shop Vac - Ridged
 
