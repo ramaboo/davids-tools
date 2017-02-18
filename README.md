@@ -65,8 +65,8 @@ A great tool for driving screws and smaller sockets.
 #### Plunge Router - Dewalt 1.25HP 1/4" [[DWP611PK](http://www.dewalt.com/products/power-tools/routers-planers-and-joiners/routers/114-hp-max-torque-variable-speed-compact-router-combo-kit-with-leds/dwp611pk)]
 
 * Full set of bits
-* Circle cutter
-* Edge guide
+* Circle cutter - Jasper 2-1/4" to 18-3/16" [[200J](https://www.amazon.com/Jasper-200J-Circle-Cutting-Plunge/dp/B00009K77A)]
+* Edge guide [[DW6913](http://www.dewalt.com/products/accessories/tool-accessories/router-planer-and-joiner-accessories/universal-edge-guide-with-dust-collection/dw6913)]
 
 #### Routing Table - Royobi
 
