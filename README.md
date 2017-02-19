@@ -67,6 +67,10 @@ A great tool for driving screws and smaller sockets.
 * Full set of bits
 * Circle cutter - Jasper 2-1/4" to 18-3/16" [[200J](https://www.amazon.com/Jasper-200J-Circle-Cutting-Plunge/dp/B00009K77A)]
 * Edge guide [[DW6913](http://www.dewalt.com/products/accessories/tool-accessories/router-planer-and-joiner-accessories/universal-edge-guide-with-dust-collection/dw6913)]
+* 30° chamfer bit - 1/2" shank
+* Staight 1/4" straight bit with bearing
+* Spiral cut 1/4# bit
+
 
 #### Routing Table - Royobi
 
