@@ -65,7 +65,7 @@ A great tool for driving screws and smaller sockets.
 Everything you need to make pocket-hole joints.
 
 ##### Wishlist
-* Custom Pocket-Hole Plug Cutter - Kreg [[C22](https://www.kregtool.com/store/c22/kreg-jigreg-accessories/p349/custom-pocket-hole-plug-cutter/)]
+* Pocket-Hole Plug Cutter - Kreg [[C22](https://www.kregtool.com/store/c22/kreg-jigreg-accessories/p349/custom-pocket-hole-plug-cutter/)]
 
 ## Routing
 
