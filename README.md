@@ -4,7 +4,7 @@ A well organized list of every tool I own.
 # Table of Contents
 
 * [Saws](#saws)
-* [Drills](#drills)
+* [Drills and Drivers](#drills-and-drivers)
 * [Routers](#routers)
 * [Welding](#welding)
 * [Other](#other)
@@ -29,7 +29,7 @@ An amazing tool for cutting plywood down into manageable or finished pieces. It 
 #### Jigsaw - Hitachi
 
 
-## Drills
+## Drills and Drivers
 
 #### Hammer Drill/Driver - Milwaukee 1/2" [[2704-20](https://www.milwaukeetool.com/power-tools/cordless/2704-20)]
 
@@ -59,6 +59,13 @@ A great tool for driving screws and smaller sockets.
 * Socket set
 * Various bits - Torx, square, Philips
 * Adapters and extensions
+
+### Pocket-Hole Jig - Kreg Jig K5 [[K5](https://www.kregtool.com/store/c13/kreg-jigsreg/p36/kreg-jigreg-k5/)]
+
+Everything you need to make pocket-hole joints.
+
+##### Wishlist
+* Custom Pocket-Hole Plug Cutter - Kreg [[C22](https://www.kregtool.com/store/c22/kreg-jigreg-accessories/p349/custom-pocket-hole-plug-cutter/)]
 
 ## Routing
 
